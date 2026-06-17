@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tireni!
+# 👋 Hi there, I'm Enoch!
 
 ## 🚀 About Me
 I'm a **Software Engineer** passionate about building scalable, user-friendly applications across web, mobile, and backend systems. I thrive on solving complex problems and continuously learning new technologies.
