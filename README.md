@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about building scalable, user-friendly ap
 | **Domain** | **Technologies** |
 |------------|------------------|
 | **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python |
+| **Backend** | Python, NodeJS |
 | **Mobile** | Flutter, Java, Swift |
 | **Database** | SQL |
 
