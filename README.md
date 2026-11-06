@@ -1,8 +1,8 @@
 # Hi, I'm Enoch Benson 👋
 
-## 📱 Flutter Mobile App Developer
+## 📱 Flutter Mobile App Developer | Android & iOS
 
-I build **mobile applications with Flutter**, focusing on clean interfaces and practical user experiences. My work spans community and social apps, emergency reporting, location-aware workflows, and connected dashboards.
+I build **Android and iOS mobile applications with Flutter**, focusing on clean interfaces and practical user experiences. My work spans community and social apps, emergency reporting, location-aware workflows, and connected dashboards.
 
 **Mobile app development is my specialty.** I also develop websites, web applications, REST APIs, and backend systems when a product needs more than an app.
 
@@ -19,7 +19,7 @@ These projects include professional team contributions, except **BANT**, which i
 
 ### 🛠️ Toolkit
 
-**Primary:** Flutter · Dart · Mobile UI · Cross-platform development · Mobile testing
+**Primary:** Flutter · Dart · Android development · iOS development · Cross-platform mobile UI · Mobile testing
 
 **Mobile features:** REST API integration · Firebase Cloud Messaging · Location-based workflows · Authentication · Real-time updates
 
@@ -35,7 +35,7 @@ I can build the websites, administrative dashboards, integrations and backend se
 
 ### 📬 Let's build something
 
-Open to **Flutter/mobile app freelance projects**, remote work, and selected web development work.
+Open to **Android and iOS Flutter app freelance projects**, remote work, and selected web development work.
 
 - **Email:** [enochbenson61@gmail.com](mailto:enochbenson61@gmail.com)
 - **WhatsApp:** [Contact me](https://wa.me/2348099919990)
