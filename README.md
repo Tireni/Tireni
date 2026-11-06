@@ -1,35 +1,43 @@
-# 👋 Hi there, I'm Enoch!
+# Hi, I'm Enoch Benson 👋
 
-## 🚀 About Me
-I'm a **Software Engineer** passionate about building scalable, user-friendly applications across web, mobile, and backend systems. I thrive on solving complex problems and continuously learning new technologies.
+## 📱 Flutter Mobile App Developer
 
-## 🛠️ Tech Stack
+I build **mobile applications with Flutter**, focusing on clean interfaces and practical user experiences. My work spans community and social apps, emergency reporting, location-aware workflows, and connected dashboards.
 
-| **Domain** | **Technologies** |
-|------------|------------------|
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Python, Node.js |
-| **Mobile** | Flutter, Java, Swift |
-| **Database** | SQL |
-| **Additional** | Firebase (including app notifications), REST APIs |
+**Mobile app development is my specialty.** I also develop websites, web applications, REST APIs, and backend systems when a product needs more than an app.
 
-## 🏗️ Core Competencies
-- **System Design** – Architecting scalable, reliable, and maintainable systems
-- **Full-Stack Development** – Building end-to-end web and mobile applications
-- **Mobile Development** – Cross-platform (Flutter) and native (Java/Swift) apps
-- **Database Design** – Efficient data modeling and query optimization
-- **Real-time Features** – Notifications, live updates, and Firebase integration
-- **Clean Code** – Writing readable, testable, and maintainable code
+### Featured mobile projects
 
-## 📫 Let's Connect!
-I'm always open to collaboration, discussions, or just a friendly chat!
+| Project | What I've worked on | Focus |
+| --- | --- | --- |
+| **BANT** | Student social experience with topic-based voice rooms; my own MVP, currently in development | Mobile UI · Social & voice |
+| **BOOSTAR** | Emergency reporting, SOS, school safety and travel-related mobile workflows | Mobile app · Alerts & location |
+| **N-Alerts** | Public-safety reporting, emergency communication and location-aware features | Mobile app · Reporting |
+| **NFDRC** | Fire-data dashboard, incident mapping and reporting workflows | Mobile dashboard · Data |
 
-- 📧 **Email:** [enochbenson61@gmail.com](mailto:enochbenson61@gmail.com)
-- 📱 **WhatsApp:** [+2348099919990](https://wa.me/2348099919990)
+These projects include professional team contributions, except **BANT**, which is my own product. Screenshots and descriptions do not imply sole ownership of the professional platforms.
 
-## 💡 Fun Fact
-⚡ I believe great code is not just functional—it's clean, maintainable, and tells a story.
+### 🛠️ Toolkit
 
----
+**Primary:** Flutter · Dart · Mobile UI · Cross-platform development · Mobile testing
 
-*Feel free to explore my repositories and reach out!* 🚀
+**Mobile features:** REST API integration · Firebase Cloud Messaging · Location-based workflows · Authentication · Real-time updates
+
+**Additional capabilities:** React · JavaScript · HTML · CSS · Python · PHP · Node.js · SQL · Web apps · Backend APIs · Dashboards
+
+### 🌐 More than mobile
+
+I can build the websites, administrative dashboards, integrations and backend services that support a mobile product. My other professional software work includes the **NFEC** fire-extinguisher registration and verification system.
+
+### 📂 Portfolio
+
+**[View my portfolio and case studies](https://tireni.github.io/portfolio/)**
+
+### 📬 Let's build something
+
+Open to **Flutter/mobile app freelance projects**, remote work, and selected web development work.
+
+- **Email:** [enochbenson61@gmail.com](mailto:enochbenson61@gmail.com)
+- **WhatsApp:** [Contact me](https://wa.me/2348099919990)
+
+*Flutter first. Web and backend skills when the product needs them.*
